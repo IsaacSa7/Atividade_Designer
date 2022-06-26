@@ -1,0 +1,171 @@
+@charset "UTF-8";
+
+body{
+    background: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div#botao{
+    background-image: linear-gradient(to bottom, rgb(9, 147, 9), white);
+    height: 50px;
+    
+}
+
+/*Botões*/
+#b1{
+    margin-top: 10px;
+    margin-left: 35px;
+    position: absolute;
+    height: 30px;
+    width: 80px;
+    box-shadow: 1px 1px 7px black;
+}
+#b2{
+    margin-top: 10px;
+    margin-left: 205px;
+    position: absolute;
+    height: 30px;
+    width: 80px;
+    box-shadow: 1px 1px 7px black;
+}
+#b3{
+    margin-top: 10px;
+    margin-left: 375px;
+    position: absolute;
+    height: 30px;
+    width: 80px;
+    box-shadow: 1px 1px 7px black;
+}
+#b4{
+    margin-top: 10px;
+    margin-left: 555px;
+    position: absolute;
+    height: 30px;
+    width: 80px;
+    box-shadow: 1px 1px 7px black;
+}
+
+
+#logo{
+    width: 70px;
+    height: 40px;
+    margin-top: 7px;
+    margin-left: 1200px;
+}
+
+h2{
+    margin-top: 100px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    margin-top: 100px;
+    text-align: justify;
+    margin-left: 30px;
+    text-indent: 40px;
+    margin-right: 40px;
+}
+
+.imagem{
+    margin-left: 90px;
+    height: 200px;
+    width: 300px;
+}
+
+h1{
+    text-align: center;
+    margin-top: 80px;
+}
+
+#imagemSobre{
+    margin-left: 500px;
+    margin-top: 40px;
+    margin-bottom: 80px;
+}
+
+/*CONTATOS*/
+#email img{
+    width: 250px;
+    height: 150px;
+    margin-left: 40px;
+}
+
+#email label{
+    margin-left: 40px;
+    font-size: 20px;
+    color: red;
+}
+
+#whats{
+    width: 250px;
+    height: 150px;
+    position: absolute;
+    margin-left: 450px;
+}
+
+#whats label{
+    margin-left: 85px;
+    font-size: 20px;
+    color: red;
+}
+
+#telefone img{
+    width: 90px;
+    height: 90px;
+    position: absolute;
+    margin-left: 950px;
+    margin-top: 40px;
+}
+
+#telefone label{
+    margin-top: 165px;
+    margin-left: 930px;
+    position: absolute;
+    color: red;
+    font-size: 20px;
+}
+
+
+.contato{
+    width: 400px;
+    height: 200px;
+    position: absolute;
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+
+#linhaBaixo{
+    margin-top: 300px;
+}
+
+#produto1{
+    margin-top: 30px;
+}
+
+#milho{
+    margin-top: -90px;
+    margin-left: 15em;
+    text-indent: 0px;
+}
+
+.milho{
+    margin-top: 60px;
+}
+
+.milho img{
+    width: 150px;
+    margin-left: 66px;
+}
+
+#produto2{
+    position: absolute;
+    margin-left: 450px;
+}
+
+#produto3{
+    position: absolute;
+    margin-left: 900px;
+    margin-top: -1045px;
+
+}
